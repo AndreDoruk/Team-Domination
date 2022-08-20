@@ -1,0 +1,11 @@
+<players root="gfx/characters/costumes/" 
+         portraitroot="gfx/ui/stage/" 
+         nameimageroot="gfx/ui/boss/">
+		 
+	<player 
+		name="IsaacD" skin="player_isaacd.png" hp="6" bombs="1" items="105"
+		nameimage="name_isaacd.png"
+		portrait="portrait_isaacd.png" skinColor="0" costumeSuffix="isaacd"
+		birthright="Reroll forever forever forever"
+	/>
+</players>
